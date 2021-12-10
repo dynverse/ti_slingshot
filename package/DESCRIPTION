@@ -34,4 +34,4 @@ LazyData: true
 RoxygenNote: 7.1.1
 Remotes:
     dynverse/dyntoy,
-    bioc::release/slingshot
+    bioc::3.12/slingshot
